@@ -1,0 +1,44 @@
+body{
+    background-color: #bebaa7;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 40px;
+}
+
+#main{
+    padding-top: 20px;
+    text-align: center;
+}
+
+#title{
+    text-align: center;
+}
+
+#pTitle{
+    text-align: center;
+}
+
+#img-div{
+    background-color: white;
+}
+
+#image{
+    padding-top: 15px;
+    width: 80%;
+    height: 50%;
+}
+
+.year{
+    font-weight: bold;
+}
+
+#timeline{
+    display: inline-block;
+}
+
+#tribute-info{
+    font-weight: bold;
+}
+
+#blue{
+    color: blue;
+}
