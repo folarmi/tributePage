@@ -46,3 +46,7 @@ li{
 #blue{
     color: blue;
 }
+
+#left {
+    text-align: right;
+}
